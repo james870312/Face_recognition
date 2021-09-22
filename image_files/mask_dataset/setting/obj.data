@@ -1,0 +1,5 @@
+classes= 2
+train  = mask_dataset/setting/train.txt
+valid = mask_dataset/setting/train.txt
+names  = mask_dataset/setting/obj.names
+backup = mask_dataset/model
